@@ -3,8 +3,8 @@
   "symbol": "STEF",
   "description": "Stefania is a community-driven token built on Solana to honor my art.",
   "image": "https://raw.githubusercontent.com/SteafStaff/metadata/refs/heads/main/logo.png",
-  "external_url": "https://www.stefaniatoken.com",
-  "website": "https://www.stefaniatoken.com",
+  "external_url": "https://stefaniatoken.com",
+  "website": "https://stefaniatoken.com",
   "attributes": [
     {
       "trait_type": "Token Type",
@@ -36,11 +36,11 @@
     },
     {
       "trait_type": "Initial Liquidity Pool",
-      "value": "10 SOL"
+      "value": "6 SOL"
     }
   ],
   "extensions": {
-    "website": "https://www.stefaniaderiabina.com",
+    "website": "https://stefaniaderiabina.com",
     "telegram": "https://t.me/StefaniaDeriabina",
     "telegram_secondary": "https://t.me/tatianaderiabina",
     "explorer": "https://explorer.solana.com/address/STFL2xxpPjK8CKcGycVhou2A2HjbHfHvrQZke9AVh4q"
