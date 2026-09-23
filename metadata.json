@@ -6,20 +6,43 @@
   "external_url": "https://www.stefaniatoken.com",
   "website": "https://www.stefaniatoken.com",
   "attributes": [
-    { "trait_type": "Token Type", "value": "Community" },
-    { "trait_type": "Total Supply", "value": "1,000,000,000" },
-    { "trait_type": "Blockchain", "value": "Solana" },
-    { "trait_type": "Standard", "value": "SPL Token-2022" },
-    { "trait_type": "Decimals", "value": "9" },
-    { "trait_type": "Team Allocation", "value": "8% (80,000,000 VAL)" },
-    { "trait_type": "Community & Liquidity", "value": "92% (920,000,000 VAL)" },
-    { "trait_type": "Initial Liquidity Pool", "value": "10 SOL" }
+    {
+      "trait_type": "Token Type",
+      "value": "Community"
+    },
+    {
+      "trait_type": "Total Supply",
+      "value": "1,000,000,000"
+    },
+    {
+      "trait_type": "Blockchain",
+      "value": "Solana"
+    },
+    {
+      "trait_type": "Standard",
+      "value": "SPL Token-2022"
+    },
+    {
+      "trait_type": "Decimals",
+      "value": "9"
+    },
+    {
+      "trait_type": "Team Allocation",
+      "value": "8% (80,000,000 VAL)"
+    },
+    {
+      "trait_type": "Community & Liquidity",
+      "value": "92% (920,000,000 VAL)"
+    },
+    {
+      "trait_type": "Initial Liquidity Pool",
+      "value": "10 SOL"
+    }
   ],
   "extensions": {
-    "website":  "https://www.stefaniaderiabina.com",
+    "website": "https://www.stefaniaderiabina.com",
     "telegram": "https://t.me/StefaniaDeriabina",
-    "telegram_secondary": "https://t.me/tatianaderiabina"
-    "explorer":  "https://explorer.solana.com/address/STFL2xxpPjK8CKcGycVhou2A2HjbHfHvrQZke9AVh4q"
-
+    "telegram_secondary": "https://t.me/tatianaderiabina",
+    "explorer": "https://explorer.solana.com/address/STFL2xxpPjK8CKcGycVhou2A2HjbHfHvrQZke9AVh4q"
   }
 }
