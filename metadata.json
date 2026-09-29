@@ -3,11 +3,8 @@
   "symbol": "STEF",
   "description": "Stefania is a community-driven token built on Solana to honor my art",
   "image": "https://raw.githubusercontent.com/SteafStaff/metadata/main/logo.png",
-  "external_url": "https://stefaniatoken.com",
-  "website": "https://stefaniatoken.com",
-  "telegram": "https://t.me/StefaniaDeriabina",
   "extensions": {
-    "website": "https://stefaniaderiabina.com",
+    "website": "https://stefaniatoken.com",
     "telegram": "https://t.me/StefaniaDeriabina",
     "explorer": "https://orbmarkets.io/token/STFL2xxpPjK8CKcGycVhou2A2HjbHfHvrQZke9AVh4q"
   }
