@@ -1,46 +1,11 @@
 {
   "name": "Stefania Deriabina",
   "symbol": "STEF",
-  "description": "Stefania is a community-driven token built on Solana to honor my art.",
+  "description": "Stefania is a community-driven token built on Solana to honor my art",
   "image": "https://raw.githubusercontent.com/SteafStaff/metadata/main/logo.png",
   "external_url": "https://stefaniatoken.com",
   "website": "https://stefaniatoken.com",
-  "website2": "https://stefaniaderiabina.com",
   "telegram": "https://t.me/StefaniaDeriabina",
-  "attributes": [
-    {
-      "trait_type": "Token Type",
-      "value": "Community"
-    },
-    {
-      "trait_type": "Total Supply",
-      "value": "1,000,000,000"
-    },
-    {
-      "trait_type": "Blockchain",
-      "value": "Solana"
-    },
-    {
-      "trait_type": "Standard",
-      "value": "SPL Token-2022"
-    },
-    {
-      "trait_type": "Decimals",
-      "value": "9"
-    },
-    {
-      "trait_type": "Team Allocation",
-      "value": "8% (80,000,000 STEF)"
-    },
-    {
-      "trait_type": "Community & Liquidity",
-      "value": "92% (920,000,000 STEF)"
-    },
-    {
-      "trait_type": "Initial Liquidity Pool",
-      "value": "6 SOL"
-    }
-  ],
   "extensions": {
     "website": "https://stefaniaderiabina.com",
     "telegram": "https://t.me/StefaniaDeriabina",
